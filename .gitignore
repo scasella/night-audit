@@ -1,0 +1,4 @@
+recordings/
+.devlog.jsonl
+.claude/
+.DS_Store
