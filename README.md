@@ -17,7 +17,13 @@ the camera rides its gain up and the picture turns muddy and grainy. That look
 is a genre convention. The setting, creature, story, notes, levels, title and
 art are original to this project.
 
-## Run it
+## Play it
+
+**https://scasella.github.io/night-audit/** — open it in Safari on the phone.
+GitHub Pages serves it over HTTPS, so the fold APIs are available when Safari's
+feature flags are on (see below).
+
+## Run it locally
 
 ```bash
 python3 serve.py
